@@ -1,0 +1,26 @@
+#wrapper{
+    height: 375px;
+    width: 500px;
+}
+#header{
+    height: 50px;
+    width: 500px;
+}
+#main{
+    height: 208px;
+    width: 433px;
+}
+.imgBox{
+    height: 105px;
+    width: 433px;
+    display: flex;
+}
+.imgBlock{
+    height: 100px;
+    width: 100px;
+    margin: 3px;
+}
+.button{
+    background-color: chartreuse;
+    color: white;
+}
